@@ -54,3 +54,10 @@ include:
 - Number of incidents handled by each Incident Model 
 - Breakdown of incidents by time of day, to help pinpoint peaks and ensure matching of resources.
 ##### In this notebook, I will perform Exploratory Data Analysis (EDA) on Incident management process enriched event log Data Set by using some metrics above
+
+### Source
+Data Set: Incident management process enriched event log Data Set by UCI Machine Learning Library.<br/>
+https://archive.ics.uci.edu/ml/datasets/Incident+management+process+enriched+event+log#
+
+### Reference
+Commerce, Office of Government. (2007). The Official Introduction to the ITIL Service Lifecycle. United Kingdom : Office of Government Commerce.
