@@ -29,7 +29,7 @@ The value of Incident Management includes:<br/>
 
 Incident Management is highly visible to the business, and it is therefore easier to 
 demonstrate its value than most areas in Service Operation. For this reason, 
-Incident Management is often one of the first processes to be implemented in 
+Incident Management is often one of the first processes to be implemented in
 Service Management projects. The added benefit of doing this is that Incident 
 Management can be used to highlight other areas that need attention – thereby 
 providing a justification for expenditure on implementing other processes
