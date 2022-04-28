@@ -104,3 +104,26 @@ This is an event log of an incident management process extracted from data gathe
 36. closed_at: incident user close date and time (dependent variable).
 
 ##### In this notebook, I will perform Data Analysis on Incident management process enriched event log Data Set by using some metrics explained
+
+
+### Insight
+
+- Ticket numbers significantly decrease in 2017 compare than 2016 and the result also shown more stable and less ticket backlog in 2017, it means company does massive improvement that affecting the amount of reporting ticket
+
+- From total 24918 ticket number, 24905 tickets resolved, that's a sign that the company can handle 99,9% well
+
+- 'Medium' impact has the lowest mean elapsed time, although it has the most ticket number, so companies can focus to find out what causes 'High' and 'Low' impact has higher elapsed time
+
+- Only 1.1% ticket reopen, it is shown that the ticketing agent understand enough when they can close the ticket
+
+- The result shown 45.6% ticket reassign, it could impacting mean elapsed time, companies have to find out what causes this problem (e.g. SOP that not clear enough, agent understanding related this case)
+
+- 36.6% ticket not made SLA, it's a huge amount, 10 most important feature predict incidents handled within agreed response time can help companies to improve ticket that made SLA
+
+
+### Source
+Data Set: Incident management process enriched event log Data Set by UCI Machine Learning Library.<br/>
+https://archive.ics.uci.edu/ml/datasets/Incident+management+process+enriched+event+log#
+
+### Reference
+Commerce, Office of Government. (2007). The Official Introduction to the ITIL Service Lifecycle. United Kingdom : Office of Government Commerce.
